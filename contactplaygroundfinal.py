@@ -19,3 +19,21 @@ print("Age: ")
 print(myAge)
 print("Is friend: ")
 print(isFriend)
+
+
+
+"""
+Returns to console:
+
+
+Name: 
+Connor
+Address: 
+1 A St
+Mountain View
+11111
+Age: 
+13
+Is friend: 
+True
+"""
