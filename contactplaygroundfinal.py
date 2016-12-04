@@ -23,9 +23,11 @@ print(isFriend)
 
 
 """
+[NOTE: THIS IS A MULTILINE COMMENT]
+
 Returns to console:
 
-
+-------------------
 Name: 
 Connor
 Address: 
@@ -36,4 +38,5 @@ Age:
 13
 Is friend: 
 True
+-------------------
 """
